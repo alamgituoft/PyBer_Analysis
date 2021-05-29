@@ -5,7 +5,7 @@ Analysis project for a ride-sharing company called PyBer. The results look at da
 1. Data Sources: city_data.csv, ride_data.csv
 2. Software: Python 3.8.5, Jupyter Notebook 6.1.4
 ## Results
-The ride share data summary shows the results based on the city types. From the summary below it shows that the Urban cities had the most amount of rides, drivers and largest amount of fares. However the average fare ride and fare per driver was the lowest of all the city types. This could be due to the large amount of drivers available in the Urban cities, making it more competitive among urban drivers to pick up rides and therefore the average fare per driver is a lot less compared to the two other city types. 
+The ride share data summary shows the results based on the city types. From the summary below it shows that the Urban cities had the most amount of rides, drivers and largest amount of fares. However the average fare ride and fare per driver was the lowest of all the city types. This could be due to the large amount of drivers available in the Urban cities, making it more competitive among urban drivers to pick up rides and therefore the average fare per driver is a lot less compared to the two other city types, having more control over pricing of the fares.
 Similarly, Rural cities had the least amount of total rides, total drivers and total fares with the average fare per ride and per driver being the highest compared to the two other city types. Again this could be due to the Rural cities having a lot less available drivers, make it less competitive for drivers to pick up rides. 
 ![Summary DF](https://user-images.githubusercontent.com/81877387/120075394-115ad380-c06f-11eb-962f-073a7a7ee668.png)
 
