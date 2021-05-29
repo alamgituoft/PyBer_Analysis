@@ -9,7 +9,7 @@ The ride share data summary shows the results based on the city types. From the 
 Similarly, Rural cities had the least amount of total rides, total drivers and total fares with the average fare per ride and per driver being the highest compared to the two other city types. Again this could be due to the Rural cities having a lot less available drivers, making it less competitive for drivers to pick up rides and allowing more control over pricing of the fares.
 ![Summary DF](https://user-images.githubusercontent.com/81877387/120075394-115ad380-c06f-11eb-962f-073a7a7ee668.png)
 
-In this line graph below it shows the total fares by city type from January to April 2019. Again the trend shows that the Urban cities have the highest total fares compared to the Rural cities. Overall the Suburban cities come inbetween in the middle compared to these two city types. 
+In this line graph below it shows the total fares by city type from January to April 2019. Again the trend shows that the Urban cities have the highest total volume of fares compared to the Rural cities. Overall the Suburban cities come inbetween in the middle of these two city types. 
 ![fig8](https://user-images.githubusercontent.com/81877387/120075906-29335700-c071-11eb-8cdf-68479509ba32.png)
 ## Summary 
 1. Due to the large differences in the total number of drivers available in the Rural cities compared to the Urban cities, one recommendation may be to place a cap on the number of drivers available in the Urban cities. This should control the competition and availability of drivers in the Urban cities which could then increase the average fares. 
